@@ -1,0 +1,87 @@
+{
+	"name": [
+		"Britney Spears",
+		"Adam Driver",
+		"Madonna",
+		"Harry Styles",
+		"Kylie Jenner",
+		"Kim Kardashian",
+		"Oscar Isaac",
+		"Ariana Grande",
+		"Nicki Minaj"
+	],
+	"occupation": [
+		"singer",
+		"movie star",
+		"criminal",
+		"bank robber",
+		"social media influencer",
+		"fashion model",
+		"jobless bum"
+	],
+	"always": [
+		"always",
+		"sometimes",
+		"never",
+		"recently",
+		"just",
+		"very recently"
+	],
+	"expecting": [
+		"expecting",
+		"ready for",
+		"wanting",
+		"committing crimes for",
+		"trying to kill",
+		"hurting people for",
+		"begging for",
+		"avoiding",
+		"kicked out for",
+		"spotted with"
+	],
+	"mood": [
+		"terrible",
+		"scary",
+		"sexy",
+		"wild",
+		"high profile",
+		"shocking",
+		"interesting",
+		"scandalous"
+	],
+	"outcome": [
+		"man",
+		"date",
+		"scandal",
+		"outcome",
+		"situation",
+		"coworker",
+		"discovery",
+		"criminal",
+		"manager",
+		"woman",
+		"public figure",
+		"star"
+	],
+	"shock": [
+		"shock",
+		"surprise",
+		"scare",
+		"intrigue",
+		"amaze",
+		"bewilder"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #mood# #outcome#... the #adjective# story will #shock# you!!"
+	],
+	"adjective": [
+		"juicy",
+		"crazy",
+		"unbelievable",
+		"end of the",
+		"beginning of the",
+		"brand new",
+		"hot off the press",
+		"breaking"
+	]
+}
